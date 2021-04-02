@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Наталия Таркова](https://up.htmlacademy.ru/ecmascript/14/user/704313).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
